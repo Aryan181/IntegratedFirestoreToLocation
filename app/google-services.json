@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "903297228086",
+    "firebase_url": "https://integratefirestoretolocation.firebaseio.com",
+    "project_id": "integratefirestoretolocation",
+    "storage_bucket": "integratefirestoretolocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903297228086:android:ad855f4925a63e8b07e797",
+        "android_client_info": {
+          "package_name": "com.example.integratedfirestoretolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903297228086-0gfrnsdt2lnrcoam814k5nesajjsdmcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKEaydEzXiRm0TcdgoZbnEMscBaELwT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903297228086-0gfrnsdt2lnrcoam814k5nesajjsdmcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
